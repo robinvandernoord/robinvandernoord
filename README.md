@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello there 👋
+My name is Robin van der Noord and I am a full stack web developer from the Netherlands.
 
-<!--
-**robinvandernoord/robinvandernoord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Stack
 
-Here are some ideas to get you started:
+### Main: tools I use frequently
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/robinvandernoord/main)
+![Alt text](primary_stack.png?raw=true "Overview of primary stack")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Current Activities
+- Developer at a web shop, [PiercingMania](https://piercingmania.nl)
+- Developer at an Educational Foundation, [Education Warehouse](https://www.educationwarehouse.nl)
+- Developer at my own company, [Trial and Success](https://trialandsuccess.nl)
+- Information Science Student at the [University of Groningen](https://rug.nl) 
+- Always working on hobby projects
