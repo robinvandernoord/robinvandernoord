@@ -1,6 +1,8 @@
 # Hello there 👋
 My name is Robin van der Noord and I am a full stack web developer from the Netherlands.
 
+![Stats](https://github-readme-stats.vercel.app/api?username=robinvandernoord&show_icons=true&count_private=true&hide_title=true)
+
 ## My Stack
 
 ### Main: tools I use frequently
