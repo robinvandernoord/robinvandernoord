@@ -5,8 +5,8 @@ My name is Robin van der Noord and I am a full stack web developer from the Neth
 
 ## My Stack
 
-### Main: tools I use frequently
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/robinvandernoord/main)
+### Main tools I use frequently
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/robinvandernoord/main)  
 ![Alt text](primary_stack.png?raw=true "Overview of primary stack")
 
 ## My Current Activities
