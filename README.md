@@ -9,7 +9,7 @@ I hold a BSc of Information Science from the University of Groningen.
 ## My Stack
 
 ### Main tools I use frequently
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/robinvandernoord/main)  
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/robinvandernoord/current)  
 ![Alt text](primary_stack.png?raw=true "Overview of primary stack")
 
 ## My Current Activities
