@@ -8,8 +8,9 @@ I hold a BSc of Information Science from the University of Groningen.
 ![Stats](https://github-readme-stats.vercel.app/api?username=robinvandernoord&show_icons=true&count_private=true&hide_title=true&theme=dark&hide_border=true)  
 
 
-## New!
+## New and Improved!
 [![Very Simple Transformers](https://github-readme-stats.vercel.app/api/pin/?username=trialandsuccess&repo=verysimpletransformers&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/trialandsuccess/verysimpletransformers)
+[![TypeDAL 2.0](https://github-readme-stats.vercel.app/api/pin/?username=trialandsuccess&repo=typedal&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/trialandsuccess/typedal)
 
 ## Suggested Repo's
 [![Configuraptor](https://github-readme-stats.vercel.app/api/pin/?username=trialandsuccess&repo=configuraptor&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/trialandsuccess/configuraptor)
