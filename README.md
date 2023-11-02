@@ -3,8 +3,7 @@ My name is Robin van der Noord and I am a full stack web developer from the Neth
 I hold a BSc of Information Science from the University of Groningen.
 
 ---
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robinvandernoord&theme=carbonfox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=robinvandernoord&theme=carbonfox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Stats](https://github-readme-stats.vercel.app/api?username=robinvandernoord&show_icons=true&count_private=true&hide_title=true&theme=dark&hide_border=true)  
 
 
