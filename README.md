@@ -8,7 +8,7 @@ I hold a BSc of Information Science from the University of Groningen.
 
 
 ## New and Improved!
-[![UVX 2.0](https://github-readme-stats.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=uvx2&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/robinvandernoord/uvx)
+[![uvenv 3.0](https://github-readme-stats.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=uvenv&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/robinvandernoord/uvenv)
 [![TypeDAL 3.1](https://github-readme-stats.vercel.app/api/pin/?username=trialandsuccess&show_owner=true&repo=typedal&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/trialandsuccess/typedal)
 [![pydal2sql 1.0](https://github-readme-stats.vercel.app/api/pin/?username=robinvandernoord&repo=pydal2sql&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/robinvandernoord/pydal2sql)
 [![2fas](https://github-readme-stats.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=2fas-python&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/trialandsuccess/verysimpletransformers)
