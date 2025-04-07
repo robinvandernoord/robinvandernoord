@@ -34,3 +34,9 @@ I hold a BSc of Information Science from the University of Groningen.
 ## My Previous Activities
 - Developer (PHP & Front End) at a web shop, [PiercingMania](https://piercingmania.nl)
 - Information Science Student at the [University of Groningen](https://rug.nl) 
+
+---
+Credits for the statistics and info cards:
+
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
