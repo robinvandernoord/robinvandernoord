@@ -2,9 +2,7 @@
 My name is Robin van der Noord and I am a full stack web developer from the Netherlands.  
 I hold a BSc of Information Science from the University of Groningen.
 
----
-[![GitHub Streak](https://streak-stats.demolab.com/?user=robinvandernoord&theme=carbonfox&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Stats](https://github-readme-stats.vercel.app/api?username=robinvandernoord&show_icons=true&count_private=true&hide_title=true&theme=dark&hide_border=true)  
+![Overview](https://raw.githubusercontent.com/robinvandernoord/robinvandernoord/refs/heads/master/generated/overview.svg#gh-dark-mode-only)  
 
 
 ## New and Improved!
@@ -21,19 +19,20 @@ I hold a BSc of Information Science from the University of Groningen.
 ## My Stack
 
 ### Main tools I use frequently
-<!--[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/robinvandernoord/current)  -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinvandernoord&layout=compact&theme=dark&langs_count=10&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-<!--img src="primary_stack.png?raw=true" style="width: 400px;"/-->
-
+[![Languages](https://raw.githubusercontent.com/robinvandernoord/robinvandernoord/refs/heads/master/generated/languages.svg#gh-dark-mode-only)]()
 
 ## My Current Activities
-- Developer (Python & Front End) at an Educational Foundation, [Education Warehouse](https://www.educationwarehouse.nl)
-- Developer (Python, PHP & Front End) at my own company, [Trial and Success](https://trialandsuccess.nl)
+- Lead Developer (Python & Front End) at an Educational Foundation, [Education Warehouse](https://www.educationwarehouse.nl)
+- Full Stack Developer (Python, PHP & Front End) at my own company, [Trial and Success](https://trialandsuccess.nl)
 - Always working on hobby projects
 
 ## My Previous Activities
 - Developer (PHP & Front End) at a web shop, [PiercingMania](https://piercingmania.nl)
 - Information Science Student at the [University of Groningen](https://rug.nl) 
+
+## More stats!
+![Stats](https://github-readme-stats.vercel.app/api?username=robinvandernoord&show_icons=true&count_private=true&hide_title=true&theme=dark&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=robinvandernoord&theme=carbonfox&hide_border=true&date_format=j%20M%5B%20Y%5D) 
 
 ---
 Credits for the statistics and info cards:
