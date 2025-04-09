@@ -32,7 +32,7 @@ I hold a BSc of Information Science from the University of Groningen.
 
 ## More stats!
 ![Stats](https://github-readme-stats.vercel.app/api?username=robinvandernoord&show_icons=true&count_private=true&hide_title=true&theme=dark&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=robinvandernoord&theme=carbonfox&hide_border=true&date_format=j%20M%5B%20Y%5D) 
+![GitHub Streak](https://github-readme-streak-stats-one-kappa.vercel.app/?user=robinvandernoord&theme=carbonfox&hide_border=true&date_format=j%20M%5B%20Y%5D) 
 
 ---
 Credits for the statistics and info cards:
