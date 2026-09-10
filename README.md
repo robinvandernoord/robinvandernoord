@@ -6,15 +6,15 @@ I hold a BSc of Information Science from the University of Groningen.
 
 
 ## New and Improved!
-[![uvenv 3.0](https://github-readme-stats.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=uvenv&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/robinvandernoord/uvenv)
-[![TypeDAL 3.1](https://github-readme-stats.vercel.app/api/pin/?username=trialandsuccess&show_owner=true&repo=typedal&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/trialandsuccess/typedal)
-[![pydal2sql 1.0](https://github-readme-stats.vercel.app/api/pin/?username=robinvandernoord&repo=pydal2sql&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/robinvandernoord/pydal2sql)
-[![2fas](https://github-readme-stats.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=2fas-python&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/trialandsuccess/verysimpletransformers)
+[![uvenv 3.9](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=uvenv&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/robinvandernoord/uvenv)
+[![TypeDAL 5.1](https://github-stats-extended.vercel.app/api/pin/?username=trialandsuccess&show_owner=true&repo=typedal&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/trialandsuccess/typedal)
+[![2fas-python 1.2.1](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=2fas-python&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/robinvandernoord/2fas-python)
+[![kerntop 0.2](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=kerntop&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/robinvandernoord/kerntop)
 
 ## Suggested Repo's
-[![Configuraptor](https://github-readme-stats.vercel.app/api/pin/?username=trialandsuccess&show_owner=true&repo=configuraptor&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/trialandsuccess/configuraptor)
-[![su6](https://github-readme-stats.vercel.app/api/pin/?username=trialandsuccess&show_owner=true&repo=su6&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/trialandsuccess/su6)
-[![Very Simple Transformers](https://github-readme-stats.vercel.app/api/pin/?username=trialandsuccess&show_owner=false&repo=verysimpletransformers&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/trialandsuccess/verysimpletransformers)
+[![Configuraptor](https://github-stats-extended.vercel.app/api/pin/?username=trialandsuccess&show_owner=true&repo=configuraptor&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/trialandsuccess/configuraptor)
+[![su6](https://github-stats-extended.vercel.app/api/pin/?username=trialandsuccess&show_owner=true&repo=su6&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/trialandsuccess/su6)
+[![Very Simple Transformers](https://github-stats-extended.vercel.app/api/pin/?username=trialandsuccess&show_owner=false&repo=verysimpletransformers&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/trialandsuccess/verysimpletransformers)
 
 ## My Stack
 
@@ -31,11 +31,12 @@ I hold a BSc of Information Science from the University of Groningen.
 - Information Science Student at the [University of Groningen](https://rug.nl) 
 
 ## More stats!
-![Stats](https://github-readme-stats.vercel.app/api?username=robinvandernoord&show_icons=true&count_private=true&hide_title=true&theme=dark&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats-one-kappa.vercel.app/?user=robinvandernoord&theme=carbonfox&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat) 
+![Stats](https://github-stats-extended.vercel.app/api?username=robinvandernoord&show_icons=true&count_private=true&hide_title=true&theme=dark&hide_border=true)<br>
+![GitHub Streak](https://streak-stats.demolab.com?user=robinvandernoord&theme=carbonfox&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)
 
 ---
 Credits for the statistics and info cards:
 
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats)
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [github-stats-extended](https://github.com/stats-organization/github-stats-extended)
+- [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
