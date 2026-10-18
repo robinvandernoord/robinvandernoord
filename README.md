@@ -6,19 +6,18 @@ I hold a BSc of Information Science from the University of Groningen.
 
 
 ## New and Improved!
-[![Tileception](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=tileception&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/robinvandernoord/tileception)
-[![cargo-plane](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=cargo-plane&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/robinvandernoord/cargo-plane)
-[![soup5ever](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=soup5ever&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/robinvandernoord/soup5ever)
-[![TypeDAL](https://github-stats-extended.vercel.app/api/pin/?username=trialandsuccess&show_owner=true&repo=typedal&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/trialandsuccess/typedal)
-
-[![Vommit](https://github-stats-extended.vercel.app/api/pin/?username=educationwarehouse&show_owner=true&repo=vommit&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/educationwarehouse/vommit)
-[![Endow](https://github-stats-extended.vercel.app/api/pin/?username=educationwarehouse&show_owner=true&repo=endow&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/educationwarehouse/endow)
+[![Tileception](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=tileception&description_lines_count=2&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/robinvandernoord/tileception)
+[![cargo-plane](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=cargo-plane&description_lines_count=2&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/robinvandernoord/cargo-plane)
+[![soup5ever](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=soup5ever&description_lines_count=2&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/robinvandernoord/soup5ever)
+[![TypeDAL](https://github-stats-extended.vercel.app/api/pin/?username=trialandsuccess&show_owner=true&repo=typedal&description_lines_count=2&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/trialandsuccess/typedal)
+[![Vommit](https://github-stats-extended.vercel.app/api/pin/?username=educationwarehouse&show_owner=true&repo=vommit&description_lines_count=2&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/educationwarehouse/vommit)
+[![Endow](https://github-stats-extended.vercel.app/api/pin/?username=educationwarehouse&show_owner=true&repo=endow&description_lines_count=2&border_color=d4af37&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=d4af37)](https://github.com/educationwarehouse/endow)
 
 ## Suggested Repositories
-[![uvenv](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=uvenv&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/robinvandernoord/uvenv)
-[![Configuraptor](https://github-stats-extended.vercel.app/api/pin/?username=trialandsuccess&show_owner=true&repo=configuraptor&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/trialandsuccess/configuraptor)
-[![edwh](https://github-stats-extended.vercel.app/api/pin/?username=educationwarehouse&show_owner=true&repo=edwh&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/educationwarehouse/edwh)
-[![kerntop](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=kerntop&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/robinvandernoord/kerntop)
+[![uvenv](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=uvenv&description_lines_count=2&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/robinvandernoord/uvenv)
+[![Configuraptor](https://github-stats-extended.vercel.app/api/pin/?username=trialandsuccess&show_owner=true&repo=configuraptor&description_lines_count=2&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/trialandsuccess/configuraptor)
+[![edwh](https://github-stats-extended.vercel.app/api/pin/?username=educationwarehouse&show_owner=true&repo=edwh&description_lines_count=2&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/educationwarehouse/edwh)
+[![kerntop](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=kerntop&description_lines_count=2&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/robinvandernoord/kerntop)
 
 ## My Stack
 
