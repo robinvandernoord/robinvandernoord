@@ -18,6 +18,8 @@ I hold a BSc of Information Science from the University of Groningen.
 [![Configuraptor](https://github-stats-extended.vercel.app/api/pin/?username=trialandsuccess&show_owner=true&repo=configuraptor&description_lines_count=2&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/trialandsuccess/configuraptor)
 [![edwh](https://github-stats-extended.vercel.app/api/pin/?username=educationwarehouse&show_owner=true&repo=edwh&description_lines_count=2&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/educationwarehouse/edwh)
 [![kerntop](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=kerntop&description_lines_count=2&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/robinvandernoord/kerntop)
+[![threadful](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=threadful&description_lines_count=2&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/robinvandernoord/threadful)
+[![2fas-python](https://github-stats-extended.vercel.app/api/pin/?username=robinvandernoord&show_owner=false&repo=2fas-python&description_lines_count=2&border_color=2ea043&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2ea043)](https://github.com/robinvandernoord/2fas-python)
 
 ## My Stack
 
