@@ -23,7 +23,6 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.14'
-        architecture: 'x64'
         cache: 'pip'
 
     # Install dependencies with `pip`
@@ -44,12 +43,10 @@ jobs:
         EXCLUDED_LANGS: jupyter notebook
         EXCLUDE_FORKED_REPOS: true
 
-    # Commit all changed files to the repository
+    # Commit all changed files to the repository, if there are any
     - name: Commit to the repo
       run: |
-        git config --global user.name "jstrieb/github-stats"
-        git config --global user.email "github-stats[bot]@jstrieb.github.io"
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add .
-        # Force the build to succeed, even if no files were changed
-        git commit -m 'Update generated files' || true
-        git push
+        git diff --cached --quiet || (git commit -m 'Update generated files' && git push)
