@@ -16,14 +16,13 @@ jobs:
 
     steps:
     # Check out repository under $GITHUB_WORKSPACE, so the job can access it
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
-    # Run using Python 3.8 for consistency and aiohttp
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v4
+    # Run using Python 3.14 for consistency and aiohttp
+    - name: Set up Python 3.14
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.8'
-        architecture: 'x64'
+        python-version: '3.14'
         cache: 'pip'
 
     # Install dependencies with `pip`
@@ -44,12 +43,10 @@ jobs:
         EXCLUDED_LANGS: jupyter notebook
         EXCLUDE_FORKED_REPOS: true
 
-    # Commit all changed files to the repository
+    # Commit all changed files to the repository, if there are any
     - name: Commit to the repo
       run: |
-        git config --global user.name "jstrieb/github-stats"
-        git config --global user.email "github-stats[bot]@jstrieb.github.io"
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git add .
-        # Force the build to succeed, even if no files were changed
-        git commit -m 'Update generated files' || true
-        git push
+        git diff --cached --quiet || (git commit -m 'Update generated files' && git push)
